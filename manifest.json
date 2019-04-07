@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "manifest_version": 2,
 
@@ -36,3 +37,43 @@
 		"topSites"
   ]
 }
+=======
+{
+  "manifest_version": 2,
+
+  "name": "R.A.Y.A.N",
+  "description": "Chrome Voice Assistant",
+  "version": "1.0",
+  "content_security_policy": "script-src 'self' https://www.gstatic.com/firebasejs/4.10.0/firebase.js https://cdn.firebase.com https://*.firebaseio.com https://*.firebaseio-demo.com; object-src 'self'",
+
+  "browser_action": {
+    "default_icon": "siri.png",
+    "default_popup": "popup.html"
+  },
+  "commands": {
+    "listen": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+0"
+      },
+      "description": "listen",
+      "global": true
+    }
+  },
+  "background": {
+		"scripts": [
+			"background.js"
+		],
+		"persistent": false
+	},
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs",
+    "activeTab",
+    "http://*/*",
+    "https://*/*",
+    "management",
+		"topSites"
+  ]
+}
+>>>>>>> a16b7a05c056b63bdf89fde868b03e7350c02286

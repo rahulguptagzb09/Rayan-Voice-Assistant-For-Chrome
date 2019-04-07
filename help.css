@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header,footer{
     background-color:black;
     color: tomato;
@@ -43,4 +44,51 @@ body {
     text-align: center;
     background-color: teal;
     padding: 5px;
+=======
+header,footer{
+    background-color:black;
+    color: tomato;
+    padding: 20px;
+    color: #add;
+    background-blend-mode: darken;
+}
+h1 {
+    font-size: 45px;
+    text-align: center;
+    color: red;
+    background-blend-mode: inherit;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+    font-weight:50;
+    background-blend-mode: lighten;
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+h3 {
+    text-align: center;
+    font-style: oblique;
+    color: purple;
+    font-weight: 100;
+    background-blend-mode: soft-light;
+    margin: auto;
+}
+
+body {
+    background : whitesmoke;
+}
+
+.injected-text{
+    margin-bottom: 25px;
+    text-align: center;
+    background-color: teal;
+    padding: 5px;
+>>>>>>> a16b7a05c056b63bdf89fde868b03e7350c02286
 }
