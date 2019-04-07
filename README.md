@@ -1,7 +1,7 @@
 # Rayan-Voice-Assistant-For-Chrome
 Chrome Voice Assistant
 <h2>Commands</h2>
-<h3>
+<h4>
 	<li>For Google Search - Say "search" + anything</li> <br>
  	<li>For Forwarding the tab - Say "forward" </li><br>
         <li>For Backwarding the tab - Say "backward" </li><br>
@@ -15,8 +15,8 @@ Chrome Voice Assistant
 	<li>For Scroll down - Say "scroll down" </li><br>
 	<li>For Closing the opened tab - Say "close" </li><br>
         <li>For Youtube search - Say "youtube" + anything </li><br>
-</h3>
-<h3>You can also use shortcut to execute commads- Ctrl+Shift+0</h3><br>
-<h3>This extension is in development phase and will improve in future versions. So look forward for future updates.<h3><br>
+</h4>
+<h4>You can also use shortcut to execute commads- Ctrl+Shift+0</h4><br>
+<h4>This extension is in development phase and will improve in future versions. So look forward for future updates.<h4><br>
 <footer>RAYAN Developer Team:-</footer>
 <footer>Rahul Gupta</footer>
