@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    background-blend-mode: inherit;
+    text-transform: uppercase;
+    font-style: inherit;
+}
+
+header,footer{
+    background-color: #F0F0F0;
+    color: blue;
+}
+
+h2{
+    color: green;
+    font-style: oblique;
+}
+body{
+    background-color: #F0F0F0;
+}
+button{
+  border: 0;
+  padding: 0;
+}
+h4{
+  font-style: normal;
+  font-size: 13px;
+}
